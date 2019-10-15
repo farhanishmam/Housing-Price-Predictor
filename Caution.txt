@@ -1,0 +1,1 @@
+data.txt must not contain endline at the end of file.
